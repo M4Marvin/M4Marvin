@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # Hi there 👋, My name is Marvin V. Prakash 👨‍💻
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+&nbsp; [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31m5lqcfqijwgzxofbsmhrfredke)
