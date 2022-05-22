@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 
 - ### 🌱 I’m currently learning about [Machine Learning and Deep Learning](https://www.kaggle.com/m4marvin)
 
-- ### 🌱 I’m currently learning [reinforcement learning](https://github.com/huggingface/deep-rl-class) and Java (Test Driven Development)
+- ### 🌱 I’m currently learning [reinforcement learning](https://github.com/huggingface/deep-rl-class) and Java (Test Driven Development and JavaFX)
+
+- ### 😄 Pronouns: him/his
+
+- ### ⚡ Fun fact: I wrote all of this using GitHub Copilot
 
 ---
 
