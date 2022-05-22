@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marvin_prakash/)
 [![Twitter](https://img.shields.io/badge/Twitter-%2355ACEE.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrakashMarvin)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.in/u/MarvinPrakash)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23F7931E.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/m4marvin)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif#thumbnail" width="100" height="100">
 
