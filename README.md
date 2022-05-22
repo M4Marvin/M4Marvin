@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 
 ## About me
 
-- ### 🔭 I’m currently working on freelance projects, but I’m also a full-time student at the [Jawaharlal Nehru University](www.jnu.ac.in). I'm currently pursuing my MS (Dual Degree) in Computational Biology and Bioinformatics ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+- ### 🔭 I’m currently working on freelance projects classes, but I’m also a full-time student at the [Jawaharlal Nehru University](www.jnu.ac.in). I'm currently pursuing my MS (Dual Degree) in Computational Biology and Bioinformatics [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.in/u/MarvinPrakash)
 
-- ### 🌱 I’m currently learning reinforcement learning and Java (Test Driven Development)
+- ### 🌱 I’m currently learning about [Machine Learning and Deep Learning](https://www.kaggle.com/m4marvin)
+
+- ### 🌱 I’m currently learning [reinforcement learning](https://github.com/huggingface/deep-rl-class) and Java (Test Driven Development)
 
 ---
 
@@ -45,7 +47,9 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Tools and websites I use.
+---
+
+## Tools and websites I use
 
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
@@ -55,8 +59,15 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+## Contact me!! 📫
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/M4Marvin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-p-688a12132/)
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/DishWasher#3078)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marvin_prakash/)
+[![Twitter](https://img.shields.io/badge/Twitter-%2355ACEE.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrakashMarvin)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.in/u/MarvinPrakash)
