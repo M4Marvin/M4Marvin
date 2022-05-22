@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **M4Marvin/M4Marvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋, My name is Marvin V. Prakash 👨‍💻
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
