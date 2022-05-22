@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I love music and coding! :headphones: 👨‍💻
 
-&nbsp; [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31m5lqcfqijwgzxofbsmhrfredke)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31m5lqcfqijwgzxofbsmhrfredke&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31m5lqcfqijwgzxofbsmhrfredke&redirect=true)
 
 ---
 
 ## About me
 
-- ### 🔭 I’m currently working on freelance projects classes, but I’m also a full-time student at the [Jawaharlal Nehru University](www.jnu.ac.in). I'm currently pursuing my MS (Dual Degree) in Computational Biology and Bioinformatics [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.in/u/MarvinPrakash)
+- ### 🔭 I’m currently working on freelance projects and classes, but I’m also a full-time student at the [Jawaharlal Nehru University](www.jnu.ac.in). I'm currently pursuing my MS (Dual Degree) in Computational Biology and Bioinformatics [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.in/u/MarvinPrakash)
 
 - ### 🌱 I’m currently learning about [Machine Learning and Deep Learning](https://www.kaggle.com/m4marvin)
 
@@ -71,3 +71,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marvin_prakash/)
 [![Twitter](https://img.shields.io/badge/Twitter-%2355ACEE.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrakashMarvin)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.in/u/MarvinPrakash)
+
+![Connecting](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif#thumbnail){: width=150 height=100}
+
+## **I love making new connections, so if you have any questions, feel free to contact me!**
