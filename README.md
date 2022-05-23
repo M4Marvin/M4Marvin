@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I love music and coding! :headphones: 👨‍💻
 
-## Listen with me! 🎧
+<h2 align = "center"> Listen with me! 🎧</h2>
+<p align="center">
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31m5lqcfqijwgzxofbsmhrfredke&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31m5lqcfqijwgzxofbsmhrfredke&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+    </a>
+</p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31m5lqcfqijwgzxofbsmhrfredke&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31m5lqcfqijwgzxofbsmhrfredke&redirect=true)
-
-## About me
+## **About me**
 
 - ### 🔭 I’m currently working on freelance projects and classes, but I’m also a full-time student at the [Jawaharlal Nehru University](www.jnu.ac.in). I'm currently pursuing my MS (Dual Degree) in Computational Biology and Bioinformatics [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.in/u/MarvinPrakash)
 
@@ -33,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Current Skills
+## **Current Skills**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -53,7 +56,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Tools and websites I use
+## **Tools and websites I use**
 
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
@@ -67,7 +70,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Contact me!! 📫
+## **Contact me!!** 📫
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/M4Marvin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-p-688a12132/)
