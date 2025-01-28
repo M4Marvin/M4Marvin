@@ -54,18 +54,13 @@ University research portals with real-time access to computational tools & publi
 - **President @ Co.L.D. Tech Club**  
   Scaled from 50 → 250+ members | Led 12+ hackathons & ML workshops
 
-<h2 align="center">🎵 Code with Rhythm</h2>
-<p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31m5lqcfqijwgzxofbsmhrfredke">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31m5lqcfqijwgzxofbsmhrfredke&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width="60%">
-    </a>
-</p>
 
 <h2 align="center">📫 Let's Collaborate!</h2>
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marvin_Prakash-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marvin-p-688a12132/)
   [![Email](https://img.shields.io/badge/Email-marvinprakash@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:marvinprakash@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-m4marvin-181717?style=for-the-badge&logo=github)](https://github.com/m4marvin)
+  [![X/Twitter](https://img.shields.io/badge/GitHub-m4marvin-181717?style=for-the-badge&logo=X)](https://x.com/PrakashMarvin)
+  
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif#thumbnail" width="100" height="100" align="right">
