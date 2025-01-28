@@ -54,15 +54,3 @@ University research portals with real-time access to computational tools & publi
 - **President @ Co.L.D. Tech Club**  
   Scaled from 50 → 250+ members | Led 12+ hackathons & ML workshops
 
-
-<h2 align="center">📫 Let's Collaborate!</h2>
-<p align="center">
-  [![Email](https://img.shields.io/badge/Email-marvinprakash@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:marvinprakash@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-m4marvin-181717?style=for-the-badge&logo=github)](https://github.com/m4marvin)
-  [![X/Twitter](https://img.shields.io/badge/GitHub-m4marvin-181717?style=for-the-badge&logo=X)](https://x.com/PrakashMarvin)
-  
-</p>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif#thumbnail" width="100" height="100" align="right">
-
-*"Simulating molecules by day, architecting systems by night"* 🔬💻
